@@ -1,0 +1,1 @@
+export type PostProps = { id: number; title: string; body: string } //we created this exportable type for reusability in various files. So that we can import the type in various functions.

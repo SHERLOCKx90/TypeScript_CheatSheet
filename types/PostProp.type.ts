@@ -1,0 +1,1 @@
+// we can create different types for different files.
