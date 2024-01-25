@@ -1,1 +1,1 @@
-The TypeScript Cheat-Sheet for Beginners. Happy Coding!!!
+# The TypeScript Cheat-Sheet for Beginners. Happy Coding!!!
